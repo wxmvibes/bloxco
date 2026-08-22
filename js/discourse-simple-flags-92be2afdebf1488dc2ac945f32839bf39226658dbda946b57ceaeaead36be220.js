@@ -1,8 +1,0 @@
-define("discourse/plugins/discourse-simple-flags/discourse/templates/connectors/category-custom-settings/simple-flags",["exports","ember-this-fallback/deprecations-helper","@ember/template-factory"],(function(e,s,t){"use strict"
-Object.defineProperty(e,"__esModule",{value:!0}),e.default=void 0
-e.default=(0,t.createTemplateFactory)({id:"no2rED7x",block:'[[[10,"section"],[14,0,"field"],[12],[1,"\\n  "],[10,"h3"],[12],[1,"\\n    "],[1,[28,[35,2],["category.flags_to_hide_post.title"],null]],[1,"\\n  "],[13],[1,"\\n  "],[10,"label"],[12],[1,"\\n    "],[1,[28,[35,2],["category.flags_to_hide_post.label"],null]],[1,"\\n  "],[13],[1,"\\n  "],[1,[28,[35,4],null,[["value","type"],[[30,0,["category","custom_fields","flags_to_hide_post"]],"number"]]]],[1,"\\n"],[13],[1,"\\n"],[1,[28,[32,0],["[[\\"The `category` property path was used in the `discourse/plugins/discourse-simple-flags/discourse/templates/connectors/category-custom-settings/simple-flags.hbs` template without using `this`. This fallback behavior has been deprecated, all properties must be looked up on `this` when used in the template: {{this.category}}\\",false,{\\"id\\":\\"ember-this-fallback.this-property-fallback\\",\\"until\\":\\"n/a\\",\\"for\\":\\"ember-this-fallback\\",\\"url\\":\\"https://deprecations.emberjs.com/v3.x#toc_this-property-fallback\\",\\"since\\":{\\"available\\":\\"0.2.0\\"}}]]"],null]]],[],false,["section","h3","i18n","label","text-field"]]',moduleName:"discourse/plugins/discourse-simple-flags/discourse/templates/connectors/category-custom-settings/simple-flags.hbs",scope:()=>[s.default],isStrictMode:!1})}))
-
-//# sourceMappingURL=discourse-simple-flags-42dba3d06feb449f621676b15c85fbae50ef872452ed72532b7f7352bd365f09.map
-//!
-
-;
